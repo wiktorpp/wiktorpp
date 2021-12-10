@@ -1,13 +1,13 @@
 # My projects
 
 ## Miscellaneous
-[https://github.com/wiktorpp/pebblesay](pebblesay) - A program inspired by cowsay
+[pebblesay](https://github.com/wiktorpp/pebblesay) - A program inspired by cowsay
 
 ## GTK
-[https://github.com/wiktorpp/gtk_demo](gtk-demo) - A demo gtk application\
-[https://github.com/wiktorpp/gtk_app_template](gtk_app_template) - A template for creating a gtk application\
-[https://github.com/wiktorpp/pebblesay-gtk](pebblesay-gtk) - Pebblesay frontend in GTK
+[gtk_demo](https://github.com/wiktorpp/gtk-demo) - A demo gtk application\
+[gtk_app_template](https://github.com/wiktorpp/gtk_app_template) - A template for creating a gtk application\
+[pebblesay-gtk](https://github.com/wiktorpp/pebblesay-gtk) - Pebblesay frontend in GTK
 
 ## Discord bots
-[https://github.com/wiktorpp/discord_debug_bot](discord_debug_bot) - A bot created for debugging and API testing\
-[https://github.com/wiktorpp/discordFileExploler](discordFileExploler) - A bot providing commands for accessing files on a host server
+[discord_debug_bot](https://github.com/wiktorpp/discord_debug_bot) - A bot created for debugging and API testing\
+[discordFileExploler](https://github.com/wiktorpp/discordFileExploler) - A bot providing commands for accessing files on a host server
