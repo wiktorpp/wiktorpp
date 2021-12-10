@@ -5,7 +5,7 @@
 
 ## GTK
 [gtk_app_template](https://github.com/wiktorpp/gtk_app_template) - A template for creating a gtk application. A starting point for writing GTK+ applications.\
-[pebblesay-gtk](https://github.com/wiktorpp/pebblesay-gtk) - A pebblesay frontend in GTK
+[pebblesay-gtk](https://github.com/wiktorpp/pebblesay-gtk) - A pebblesay frontend in GTK\
 [gtk_demo](https://github.com/wiktorpp/gtk_demo) - A demo gtk application\
 
 ## Discord bots
