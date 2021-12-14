@@ -17,4 +17,4 @@
 [weatherbot](https://github.com/wiktorpp/weatherbot) - A discord bot that shows the current weather using OpenWeatherMap
 
 ## Unusual data transmissiion methods
-[ile_to_qr_converter](https://github.com/wiktorpp/file_to_qr_converter) - A way to transmitte data throgh QR codes
+[file_to_qr_converter](https://github.com/wiktorpp/file_to_qr_converter) - A way to transmitte data throgh QR codes
