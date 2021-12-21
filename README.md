@@ -3,7 +3,8 @@
 ## Miscellaneous
 [pebblesay](https://github.com/wiktorpp/pebblesay) - A program inspired by `cowsay`\
 [mandelbrot-set-python](https://github.com/wiktorpp/mandelbrot-set-python) - A mandelbrot renderer\
-[printBmp](https://github.com/wiktorpp/printBmp) - Show colour images on an ANSI compatible terminals
+[printBmp](https://github.com/wiktorpp/printBmp) - Show colour images on an ANSI compatible terminals\
+[advent_of_code_2015](https://github.com/wiktorpp/advent_of_code_2015) - My solutions to the advent of code from 2015
 
 ## GTK
 [gtk_app_template](https://github.com/wiktorpp/gtk_app_template) - A starting point for writing GTK+ applications.\
