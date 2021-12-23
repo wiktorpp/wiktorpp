@@ -16,6 +16,3 @@
 [discordFileExploler](https://github.com/wiktorpp/discordFileExploler) - A bot providing commands for accessing files on a host server (for demonstration purpouses only)\
 [friendmatcher](https://github.com/wiktorpp/friendmatcher) - Work in progress.\
 [weatherbot](https://github.com/wiktorpp/weatherbot) - A discord bot that shows the current weather using OpenWeatherMap
-
-## Unusual data transmissiion methods
-[file_to_qr_converter](https://github.com/wiktorpp/file_to_qr_converter) - A way to transmitte data throgh QR codes
