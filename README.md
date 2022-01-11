@@ -14,9 +14,9 @@
 
 ## HTML
 [pebblesay-web](https://github.com/wiktorpp/pebblesay-web) - Pebblesay implementation using [Brython](https://brython.info/)\
-[zlotykolczyk.github.io/](https://zlotykolczyk.github.io/) - A web page for Złoty Kolczyk
-[wiktorpp.github.io/](https://wiktorpp.github.io/) - My website
-[https://github.com/wiktorpp/nishi_qwp-website](nishi_qwp-website) - A website I made for my friend
+[zlotykolczyk.github.io/](https://zlotykolczyk.github.io/) - A web page for Złoty Kolczyk\
+[wiktorpp.github.io/](https://wiktorpp.github.io/) - My website\
+[https://wiktorpp.github.io/nishi_qwp-website](nishi_qwp-website) - A website I made for my friend
 
 ## Discord bots
 [discord_debug_bot](https://github.com/wiktorpp/discord_debug_bot) - A bot that executes provided python code created for debugging and API testing*\
