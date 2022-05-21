@@ -2,8 +2,8 @@
 
 ## Miscellaneous
 [pebblesay](https://github.com/wiktorpp/pebblesay) - A program inspired by `cowsay`\
-[mandelbrot-set-python](https://github.com/wiktorpp/mandelbrot-set-python) - A mandelbrot renderer\
 [ansipng](https://github.com/wiktorpp/ansipng) - Show colour images on an ANSI compatible terminals. A rewrite of [printBmp](https://github.com/wiktorpp/printBmp) in Rust\
+[mandelbrot-set-python](https://github.com/wiktorpp/mandelbrot-set-python) - A mandelbrot renderer\
 [advent_of_code_2015](https://github.com/wiktorpp/advent_of_code_2015) - My solutions to the advent of code from 2015\
 [tictactoe](https://github.com/wiktorpp/tictactoe) - A game of tic-tac-toe (noughts and crosses) coded up in one sitting
 
@@ -23,5 +23,9 @@
 [discordFileExploler](https://github.com/wiktorpp/discordFileExploler) - A bot providing UNIX-y commands for accessing files on a host server*\
 [friendmatcher](https://github.com/wiktorpp/friendmatcher) - Work in progress.\
 [weatherbot](https://github.com/wiktorpp/weatherbot) - A discord bot that shows the current weather from OpenWeatherMap
+[propbot](https://github.com/wiktorpp/propbot) - A bot meant for keeping track of props
 
 *not secure!
+## Scripts
+[stickerripper](https://github.com/wiktorpp/stickerripper) - A sticker downloader script\
+[comic_downloader](https://github.com/wiktorpp/comic_downloader) - Automates managing of comics downloaded from internet
