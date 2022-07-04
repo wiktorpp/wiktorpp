@@ -5,7 +5,8 @@
 [ansipng](https://github.com/wiktorpp/ansipng) - Show colour images on an ANSI compatible terminals. A rewrite of [printBmp](https://github.com/wiktorpp/printBmp) in Rust\
 [mandelbrot-set-python](https://github.com/wiktorpp/mandelbrot-set-python) - A mandelbrot renderer\
 [advent_of_code_2015](https://github.com/wiktorpp/advent_of_code_2015) - My solutions to the advent of code from 2015\
-[tictactoe](https://github.com/wiktorpp/tictactoe) - A game of tic-tac-toe (noughts and crosses) coded up in one sitting
+[tictactoe](https://github.com/wiktorpp/tictactoe) - A game of tic-tac-toe (noughts and crosses) coded up in one sitting\
+[homework](https://github.com/wiktorpp/homework) - Some homework I did for my school
 
 ## GTK
 [gtk_app_template](https://github.com/wiktorpp/gtk_app_template) - A template for writing a GTK+ application\
