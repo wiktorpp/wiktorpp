@@ -25,6 +25,7 @@
 [friendmatcher](https://github.com/wiktorpp/friendmatcher) - Work in progress\
 [weatherbot](https://github.com/wiktorpp/weatherbot) - A discord bot that shows the current weather from OpenWeatherMap\
 [propbot](https://github.com/wiktorpp/propbot) - A bot meant for keeping track of props
+[phonebot](https://github.com/wiktorpp/phonebot) - A phone simulator in a form of a Discord bot
 
 *not secure!
 ## Scripts
