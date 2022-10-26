@@ -20,6 +20,7 @@
 [nishi_qwp-website](https://wiktorpp.github.io/nishi_qwp-website/) - A website I made for my friend
 
 ## Discord bots
+[discord_cogs_template](https://github.com/wiktorpp/discord_cogs_template) - A Discord bot temlate that supports slash commands\
 [discord_debug_bot](https://github.com/wiktorpp/discord_debug_bot) - A bot that executes provided python code created for debugging and API testing*\
 [discordFileExploler](https://github.com/wiktorpp/discordFileExploler) - A bot providing UNIX-y commands for accessing files on a host server*\
 [friendmatcher](https://github.com/wiktorpp/friendmatcher) - Work in progress\
