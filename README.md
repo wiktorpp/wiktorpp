@@ -27,7 +27,7 @@
 [discordFileExploler](https://github.com/wiktorpp/discordFileExploler) - A bot providing UNIX-y commands for accessing files on a host server*\
 [weatherbot](https://github.com/wiktorpp/weatherbot) - A discord bot that shows the current weather from OpenWeatherMap\
 [propbot](https://github.com/wiktorpp/propbot) - A bot meant for keeping track of props\
-[phonebot](https://github.com/wiktorpp/phonebot) - A phone simulator in a form of a Discord bot. Work in progress
+[phonebot](https://github.com/wiktorpp/phonebot) - A phone simulator in a form of a Discord bot. Work in progress. \
 [friendmatcher](https://github.com/wiktorpp/friendmatcher) - Clone of Omegle. Work in progress
 
 *not secure!
