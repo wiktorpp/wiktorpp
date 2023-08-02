@@ -8,7 +8,7 @@
 [tictactoe](https://github.com/wiktorpp/tictactoe) - A game of tic-tac-toe (noughts and crosses) coded up in one sitting\
 [homework](https://github.com/wiktorpp/homework) - Some homework I did for my math class\
 [rust_cheatsheet](https://github.com/wiktorpp/rust_cheatsheet) - My notes from learning the rust programming language\
-[faketerminal](https://github.com/wiktorpp/faketerminal) - Work in progress\
+[discount-receipt](https://github.com/wiktorpp/discount-receipt) - A program I wrote that uses cheap ESC/POS receipt printers
 
 ## GTK
 [gtk_app_template](https://github.com/wiktorpp/gtk_app_template) - A template for writing a GTK+ application\
