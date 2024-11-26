@@ -34,3 +34,7 @@
 ## Scripts
 [stickerripper](https://github.com/wiktorpp/stickerripper) - A sticker downloader script\
 [comic_downloader](https://github.com/wiktorpp/comic_downloader) - Automates managing of comics downloaded from internet
+
+# Links
+* [https://wiki.postmarketos.org/wiki/User:Wiktorpyk6]
+* (@wiktorpyk04:matrix.org)[https://matrix.to/#/@wiktorpyk04:matrix.org]
